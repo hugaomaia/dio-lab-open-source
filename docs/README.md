@@ -8,6 +8,7 @@ Pinhais-PR
 
 ## Formação
 Pós-Graduação MBA em Gestão Comercial
+
 Superior em Gestão da Tecnologia de Informação
 
 ## Contato
