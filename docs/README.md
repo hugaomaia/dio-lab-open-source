@@ -7,9 +7,13 @@ Olá, muito prazer! Profissional em transição de carreira, migrando para área
 Pinhais-PR
 
 ## Formação
+Cursando Análise e Desenvolvimento de Sistemas
+
 Pós-Graduação MBA em Gestão Comercial
 
 Superior em Gestão da Tecnologia de Informação
+
+
 
 ## Contato
 📧 Email: [hmaia1997@gmail.com]
